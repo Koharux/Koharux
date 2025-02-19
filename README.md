@@ -14,3 +14,7 @@ fullstack developer, student, work on random projects in my free time
 <h3 align="left">frameworks/libraries:</h3>
 
 [![My Languages](https://skillicons.dev/icons?i=flask,react,tauri,vue,discordjs,fastapi)](https://skillicons.dev)
+
+
+
+<h3 align="left">tools:</h3>
