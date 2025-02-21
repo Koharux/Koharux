@@ -20,3 +20,7 @@ fullstack developer, student, work on random projects in my free time
 <h3 align="left">tools:</h3>
 
 [![My Languages](https://skillicons.dev/icons?i=windows,vscode,visualstudio,linux,neovim,unreal,unity,obsidian,npm,yarn,nginx,grafana,git,github,docker,cloudflare,discord,figma,)](https://skillicons.dev)
+
+---
+
+[[mario.gif]]
