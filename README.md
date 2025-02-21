@@ -23,4 +23,4 @@ fullstack developer, student, work on random projects in my free time
 
 ---
 
-[[mario.gif]]
+![ITS ME MARIO](https://github.com/Koharux/Koharux/blob/main/mario.gif)
